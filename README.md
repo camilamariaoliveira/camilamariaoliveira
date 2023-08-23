@@ -4,7 +4,7 @@
 - Desenvolvedora de Software Júnior
 - Recifense, nordestina com orgulho e apaixonada pelo Brasil!
 - Mãe de 3 Gatas (Ada Maria, Theodora Cristina e Maria Filómena)
-- Meu hyperfocus é saber como funciona, ou seja, adoro aprender, faria várias faculdades ou curso pelo resto da vida!
+- Meu hyperfocus é saber como funciona, ou seja, adoro aprender! Realizaria várias faculdades ou cursos pelo resto da vida e assim pretendo!
   
 Se quiser criar conexões, sou uma pessoa bastante receptiva e gosto de trocar ideias relacionadas a tecnologia, saúde e gestão!
 https://www.linkedin.com/in/camilamariaoliveira/

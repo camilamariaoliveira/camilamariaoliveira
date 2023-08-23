@@ -1,16 +1,25 @@
 ### Hi there 👋
+## Welcome :)
 
-<!--
-**camilamariaoliveira/camilamariaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvedora de Software Júnior
+- Recifense, nordestina com orgulho e apaixonada pelo Brasil!
+- Mãe de 3 Gatas (Ada Maria, Theodora Cristina e Maria Filómena)
+- Meu hyperfocus é saber como funciona, ou seja, adoro aprender, faria várias faculdades ou curso pelo resto da vida!
+  
+Se quiser criar conexões, sou uma pessoa bastante receptiva e gosto de trocar ideias relacionadas a tecnologia, saúde e gestão!
+https://www.linkedin.com/in/camilamariaoliveira/
 
-Here are some ideas to get you started:
+<h3> Aqui são algumas tecnologias que conheço e ja apliquei: </h3>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width: 56px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 56px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="width: 56px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="width: 56px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 56px;"/>
+
+</div>
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=camilamariaoliveira&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamariaoliveira&layout=compact&theme=radical&langs_count=10)
